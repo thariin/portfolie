@@ -1,0 +1,169 @@
+﻿@font-face {
+    font-family: iwantv2;
+    src: url('../i_want_my_ttr/iwantv2.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iwantv2;
+    src: url('../i_want_my_ttr/iwantv2.ttf') format('truetype');
+}
+
+body {
+}
+
+#wrapper {
+    width: 1024px;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #818181;
+    border: solid 1px #000;
+}
+
+#header {
+    width: 977px;
+    height: 240px;
+    margin: auto;
+    margin-top: 10px;
+    border: solid 1px #000;
+    background-image: url('Billeder/logo-og-banner-done.png');
+}
+
+#menu {
+    width: 977px;
+    height: 50px;
+    margin: auto;
+    margin-top: 10px;
+    border: solid 1px #000;
+    background-color: #1168A3;
+}
+
+.menubutton {
+    width: auto;
+    height: 100%;
+    float: left;
+    margin-right: 1px;
+    margin-left:1px;
+}
+
+#loginbutton {
+    max-width: 100%;
+    max-height : 100%;
+    float: right;
+    margin-right: 1px;
+    margin-left:1px;    
+}
+
+#slider {
+    width: 977px;
+    height: 240px;
+    margin: auto;
+    margin-top: 10px;
+    border: solid 1px #000;
+}
+
+#content {
+    width: 977px;
+    height: 350px;
+    margin: auto;
+    margin-top: 10px;
+    padding:20px;
+    border: solid 1px #000;
+}
+
+#footer {
+    width: 977px;
+    height: 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000;
+}
+
+.p1 {
+    font-family: iwantv2;
+    color:#b4b4b4;
+    font-size:large;
+}
+
+p {
+    color:#000;
+    font-family:Cambria;
+    font-size:medium;
+}
+
+h2 {
+    font-size:large;
+    font-family:Cambria;
+    color:#000;
+}
+
+#galleri_content {
+    width: 730px;
+    height: 250px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #b4b4b4;
+    border: solid 1px #000;
+    overflow: auto;
+}
+
+.galleri_button {
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+    background-color: #404040;
+    margin: 10px;
+    border: solid 3px #404040;
+    float:left;
+}
+
+.kontaktbox {
+    width:385px;
+    height:230px;
+    border:solid 1px #b4b4b4;
+    margin:auto;
+    margin-top:15px;  
+    background-color:#b4b4b4;
+}
+
+.eventbox {
+    width:250px;
+    height:250px;
+    border:solid 1px #000;
+    margin:10px;
+    margin-top:20px;
+    background-color:#000;
+}
+
+.kontakttekststor {
+    font-family:Cambria;
+    font-size:22px;
+    color:#000;
+    margin-left:10px;
+}
+
+.kontakttekstlille {
+    font-family:Cambria;
+    font-size:15px;
+    color:#000;
+    margin-left:10px;
+}
+
+.imagebox {
+    width:100%;
+    height:100%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#fff;
+}
+
+a:visited {
+    color: #b4b4b4;
+}
+
+@font-face {
+    font-family: 'iwantv2';
+    src: url('Billeder/i_want_my_ttr/iwantv2.ttf') format('truetype');
+}

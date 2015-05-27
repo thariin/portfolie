@@ -1,0 +1,152 @@
+Hold 1  (2 og 2)
+Spørg alle dem der bruger rejsekort:
+
+Kan se du bruger rejsekort. Hvilken type kort er det
+Hvorfor har du valgt at bruge rejsekort
+Hvad synes du om rejsekortet?
+Hvordan er din oplevelse af at bruge rejsekortet - 1-10
+Hvor tilfreds er du med denne betalingsform 1 -10
+
+Hvor ofte rejser du med det offentlige
+Er det let at rejse med rejsekort?
+Vil du anbefale rejsekortet til andre: ja/nej
+Ved du om det er den billigste måde du rejser på
+Hvad synes du om rejsekortets mængde af kommunikation
+Er din holdning til rejsekortet påvirket af omtalen i medierne.
+Hvorfor er rejsekortet bedre end klippekortet?
+Hvad mener du om at rejsekortet erstatter klippekortet?
+
+
+Sprøgsmål til folk med rejsekort
+
+Kan se du bruger rejsekort. Hvilken type kort er det
+Personligt Rejsekort uden billede			         1
+Personligt Rejsekort med billede 			         1
+
+Hvor tilfreds er du med denne betalingsform 1 -10
+7							         1
+9							         1
+
+Hvor ofte rejser du med det offentlige
+En gang om måneden ca.				                 1
+Hver dag						         1
+
+Er det let at rejse med rejsekort?
+Ja							         2
+Nej							         0
+
+Vil du anbefale rejsekortet til andre: ja/nej
+Ja							         2
+Nej							         0
+
+Ved du om det er den billigste måde du rejser på
+Ja							         0
+Nej							         0
+Tror jeg						         2
+Er din holdning til rejsekortet påvirket af omtalen i medierne.
+Ja							         0
+Nej							         2
+Hvad mener du om at rejsekortet erstatter klippekortet?
+Dårligt							         0
+Godt							         0
+Fint							         2
+
+ 
+person 1
+1:      Privat
+2:      10
+3:      Perioder
+4:      Ja
+5:      Ja
+6:      Det er det
+7:      Nej
+8:      Synes er fint
+
+person 2
+1:      private
+2:      7
+3:      2gange om ugen
+4:      ja 
+5:      ik til ældre mennesker kun til unge mennesker
+6:      det er det ikke¨
+7:      nej
+8:      både og pga der er mange der ikke kan finde ud af at bruge det
+
+person 3
+1:      Privat.
+2:      6
+3:      perioder.
+4:      Ja.
+5:      Ved ikke.
+6:      nej.
+7:      Nej.
+8:      Synes det er nemt nok at bruge.
+
+
+
+
+
+
+
+
+Hold 2 Spørg alle dem der bruger andre billetter:
+ 
+Hvilken type billet har du købt
+Hvor tilfreds er du med denne betalingsform 1-10
+Hvor ofte rejser du med det offentlige
+Er det let at rejse med XX billet
+Vil du anbefale denne billettype til andre: ja/nej
+Ved du om det er den billigste måde du rejser på
+Er din holdning til rejsekortet påvirket af omtale i medierne
+Hvad synes du om rejsekortets mængde af kommunikation
+Er din holdning til rejsekortet påvirket af omtalen i medierne.
+Tror du at du vil skifte til et rejsekort i fremtiden.
+Hvad mener du om at rejsekortet erstatter klippekortet?
+
+Svar
+Hold 2 Spørg alle dem der bruger andre billetter:
+ 
+Hvilken type billet har du købt.
+klippekort                                                         4
+almindelig billet                                                  3
+månedskort                                                         6
+En heldags billet				                   1
+ 
+
+Hvor tilfreds er du med denne betalingsform 1-10
+tilfreds                                                           9
+ok                                                                 4
+vil skifte                                                         1
+ 
+Hvor ofte rejser du med det offentlige
+i perioder                                                         4
+en til to gange om ugen                                            5
+hver dag                                                           5
+ 
+Er det let at rejse med XX billet
+ja                                                                13
+nej                                                                1
+ 
+Vil du anbefale denne billettype til andre: ja/nej
+mener ikke der er noget at anbefale                                6
+ja                                                                 8
+ 
+Ved du om det er den billigste måde du rejser på
+nej det er det ikke                                                3
+ved det ikke                                                       6
+ja det er det                                                      5
+ 
+Er din holdning til rejsekortet påvirket af omtale i medierne
+nej                                                               10
+ja jeg skifter snart                                               4
+ 
+Tror du at du vil skifte til et rejsekort i fremtiden.
+ja                                                                 3
+måske                                                              5
+ved det ikke                                                       3
+nej                                                                3
+ 
+Hvad mener du om at rejsekortet erstatter klippekortet?
+det er ok                                                          6
+det er irriterende                                                 4
+har ikke nogen mening om det                                       4

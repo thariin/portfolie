@@ -1,0 +1,48 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Danmark Det Nye Atlantis</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="DKatlantis.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="header"></div>
+            <div id="menu">
+                <table id="tablemenu">
+                    <tr>
+                        <td><a href="Default.aspx">Danmark Det nye Atlantis</a></td>
+                        <td><a href="Info.aspx">Om Os</a></td>
+                        <td><a href="Miljoeet.aspx">Miljoeet</a></td>
+                        <td><a href="Fossilt.aspx">Fossilt Brændsel</a></td>
+                    </tr>
+                </table>
+            </div>
+            <div id="content">
+                <div id="blue">
+                    <div id="gradient">
+                        <div id="contenttext">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footermenu">
+                <table id="tablemenu">
+                    <tr>
+                        <td><a href="Default.aspx">Danmark Det nye Atlantis</a></td>
+                        <td><a href="Info.aspx">Om Os</a></td>
+                        <td><a href="Miljoeet.aspx">Miljøet</a></td>
+                        <td><a href="Fossilt.aspx">Fossilt Brændsel</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

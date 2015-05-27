@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Bike'N'Dirty</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../projekter/Bike'N'Dirty/Bike'N'Dirty - website/bike.css" rel="stylesheet" />
+    <link href="../projekter/Bike'N'Dirty/Bike'N'Dirty - website/css/lightbox.css" rel="stylesheet" />
+    <link href="../projekter/Bike'N'Dirty/Bike'N'Dirty - website/css/screen.css" rel="stylesheet" />
+    <link href="../projekter/Bike'N'Dirty/Bike'N'Dirty - website/login_source/css/style.css" rel="stylesheet" />
+    <link href="../projekter/Bike'N'Dirty/Bike'N'Dirty - website/jsImgSlider/themes/1/js-image-slider.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper" style="background: -webkit-linear-gradient(left top, #1168A3 , #39A312); background: -o-linear-gradient(bottom right, #1168A3, #39A312); background: -moz-linear-gradient(bottom right, #1168A3, #39A312); background: linear-gradient(to bottom right, #1168A3 , #39A312);">
+
+            <div id="header"></div>
+            <div id="menu">
+                <a href="Forside.aspx">
+                    <div class="menubutton">
+                        <img src="Billeder/cog_icon.png" style="float: left; max-height: 100%;" /><p class="p1" style="float: left;">Forside</p>
+                    </div>
+                </a>
+                <a href="Events.aspx">
+                    <div class="menubutton">
+                        <img src="Billeder/cog_icon.png" style="float: left; max-height: 100%;" /><p class="p1" style="float: left;">Events</p>
+                    </div>
+                </a>
+                <a href="Galleri.aspx">
+                    <div class="menubutton">
+                        <img src="Billeder/cog_icon.png" style="float: left; max-height: 100%;" /><p class="p1" style="float: left;">Galleri</p>
+                    </div>
+                </a>
+                <a href="Kontakt.aspx">
+                    <div class="menubutton">
+                        <img src="Billeder/cog_icon.png" style="float: left; max-height: 100%;" /><p class="p1" style="float: left;">Kontakt</p>
+                    </div>
+                </a>
+                <a href="login_source/index.html">
+                    <div id="loginbutton">
+                        <img src="Billeder/padlock.png" style="max-height: 50px; max-width: 50px;" />
+                    </div>
+                </a>
+            </div>
+
+
+            <div id="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="footer">
+                <table style="width: 970px; margin: auto;">
+                    <tr>
+                        <td>
+                            <p class="p1">Bike'N'Dirty - </p>
+                        </td>
+                        <td>
+                            <p class="p1">Bjergkøbingvej 47 - </p>
+                        </td>
+                        <td>
+                            <p class="p1">3060 Espergærde Danmark - </p>
+                        </td>
+                        <td>
+                            <p class="p1">Tf: +45 22 46 55 97</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </form>
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/lightbox.js"></script>
+    <script src="login_source/js/jquery.leanModal.min.js"></script>
+    <script src="login_source/leanModal-modified-for-onload.js"></script>
+    <script src="jsImgSlider/themes/1/js-image-slider.js"></script>
+</body>
+</html>

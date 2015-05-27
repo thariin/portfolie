@@ -1,0 +1,165 @@
+﻿body {
+    background-color:#000;
+}
+
+#wrapper {
+    background-color:#000;
+    max-width:1000px;
+    max-height:1000px;
+    min-width:100px;
+    min-height:600px;
+    margin:auto;
+    /*background-image:url(Billeder/COLOURBOX6034541.jpg);*/
+    background-size:100% ;
+    border:solid 1px #000;
+    /*background-repeat:no-repeat;*/
+}
+
+#content {
+    max-width:30%;
+    min-width:10%;
+    max-height:30%;
+    min-height:10%;
+    margin:auto;
+    margin-top:100px;
+    }
+
+
+#footer {
+    width:100%;
+    min-width:140px;
+    min-height:20px;
+    height:100%;
+    background-color:#fff;
+    float:right;
+    border:1px solid #000;
+    /*border-radius:5px;*/
+    margin:auto;
+    margin-top:20px;
+    }
+
+#forside {
+    max-width:1000px;
+    min-width:200px;
+    width:100%;
+    margin:auto;
+    margin-top:200px;
+}
+
+#info {
+    min-width:200px;
+    max-width:780px;
+    min-height:50px;
+    width:100%;
+    background-color:#A216FF;
+    margin:auto;
+    margin-top:100px;
+    /*padding:10px;*/
+    border:solid 1px #fff;
+    border-radius:5px;
+    overflow:auto;
+}
+
+#øl {
+    min-width:200px;
+    max-width:1000px;
+    min-height:50px;
+    width:100%;
+    background-color:#212CFF;
+    margin:auto;
+    margin-top:100px;
+    border: solid 1px #fff;
+    border-radius:5px;
+
+}
+
+#events {
+    min-width:200px;
+    max-width:1000px;
+    min-height:200px;
+    width:100%;
+    background-color:#21FF28;
+    margin:auto;
+    margin-top:100px;
+    border: solid 1px #fff;
+    border-radius:5px;
+    overflow:auto;
+}
+
+#free {
+    min-width:200px;
+    max-width:800px;
+    min-height:200px;
+    width:100%;
+    background-color:#21FF28;
+    margin:auto;
+    background-image:url(Billeder/free_beer.png);
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+
+.button {
+    margin:auto;
+    margin-left:5px;
+    margin-bottom:5px;
+    /*max-width:25%;*/
+    /*min-*/width:110px;
+    /*max-height:25%;*/
+    /*min-*/height:110px;
+    /*padding-bottom:10px;
+    padding-left:10px;*/
+    border:3px solid #fff;
+    border-radius:5px;
+    padding:5px;
+    float:left;
+}
+
+.admin {
+    min-width:200px;
+    max-width:1000px;
+    min-height:200px;
+    width:100%;
+    background-color:#fff;
+    margin:auto;
+    margin-top:100px;
+    /*border: solid 1px #fff;*/
+    border-radius:5px;
+    padding:5px;
+    overflow:auto;
+}
+.p {
+    font-family:'Lucida Sans Unicode';
+    color:#fff;
+    margin:2px;
+}
+
+.p2 {
+    font-family:'Lucida Sans Unicode';
+    background-color:#000;
+    margin:5px;
+    margin:auto
+}
+
+.p3 {
+    /*min-width:200px;
+    width:100%;
+    height:100%;*/
+    font-family:'Lucida Sans Unicode';
+    color:#000;
+    margin:auto;
+    margin:15px;
+    float:left;
+}
+
+a:link {
+    color:#fff;
+}
+a:hover {
+    color:#fff;
+}
+a:active {
+    color:#fff;
+}
+a:visited {
+    color:#fff;
+}
